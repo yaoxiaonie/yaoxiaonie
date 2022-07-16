@@ -7,4 +7,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2022%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 # 📱 Devices
-![Xiaomi 10](https://img.shields.io/badge/Xiaomi%206-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi 10](https://img.shields.io/badge/Xiaomi%2010-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
